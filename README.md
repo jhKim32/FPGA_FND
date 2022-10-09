@@ -1,4 +1,4 @@
-### FPGA_FND
+### FPGA_FND_STOPWATCH_STM32
 STM32 CubeIDE와 Vivado 2020.1에서 C언어를 통해 스톱워치 기능을 구현한 FPGA와의 연동 코드
 
 # 1. FSM (State Diagram)
@@ -14,4 +14,3 @@ STM32 CubeIDE와 Vivado 2020.1에서 C언어를 통해 스톱워치 기능을 �
 
 # 4. 동작 영상
 https://user-images.githubusercontent.com/114629562/194761367-6a89c606-d8ca-4c22-8fbb-ab8f6095f173.mp4
-
